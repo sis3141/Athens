@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4f4bc3d7ea4b9be4da91853aea5e8d2f
+labels:
+- book
+- chair
+- environment
+- interior
+- library
+- next-gen
+- nextgen
+- office
+- pbr
+- room
+- table
+- vr
+timeCreated: 1511277357
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
